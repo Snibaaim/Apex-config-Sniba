@@ -32,6 +32,7 @@ You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner
 # SUPERGLIDE FILES
 1. To use my superglide superglide cfg for easier superglides, download all 3 superglide cfg's [superglide1.cfg](https://raw.githubusercontent.com/Snibaaim/Apex-config-Sniba/main/superglide1.cfg), [superglide2.cfg](https://raw.githubusercontent.com/Snibaaim/Apex-config-Sniba/main/superglide2.cfg], and [superglide3.cfg](https://github.com/Snibaaim/Apex-config-Sniba/blob/main/superglide3.cfg).
 It's very important that these superglide cfg's are in different files and not in the same one, or else it won't work.
+Feel free to change the input for activating the superglide cfg's (currently bound to 'x' in superglide1.cfg) to whatever you want. I recommend to not change the SCROLLDOWN to anything else except SCROLLUP.
 
 Now on to how to install them
 
@@ -43,4 +44,3 @@ Origin:
 1. Right click on the game inside of Origin and go to "Game Properties".
 2. Switch to the "Advanced Launch Options" Tab.
 3. Add the Command line argument "+exec superglide1.cfg" (without the quotation marks).
-
