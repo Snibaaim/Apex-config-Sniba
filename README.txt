@@ -20,7 +20,7 @@ Origin:
 1. Press Win+R while you are on your desktop.
 2. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
 3. Open up the Videoconfig.txt with Notepad, VSCode, or your preferred text editor.
-4. Replace everything in it with the code from [videoconfig](https://gitlab.com/AverytheFurry/deafps-apex-configs-avery/-/raw/master/videoconfig.txt)
+4. Replace everything in it with the code from [videoconfig](https://raw.githubusercontent.com/Snibaaim/Apex-config-Sniba/main/videoconfig.txt)
 5. Save and make the file read-only (Right click the file, select properties, check the read only box). (also make sure your Origin Cloud Sync is disabled in the origin settings)
 
 
