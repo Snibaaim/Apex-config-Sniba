@@ -3,12 +3,12 @@
 # Autoexec
 1. Go to the games directory. Steam: (C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg) - Origin: (C:\Program Files (x86)\Origin Games\Apex\cfg)
 2. Create a new file called "autoexec.cfg" (without the Quotation marks).
-3. Paste everything from [autoexecSniba](https://gitlab.com/AverytheFurry/deafps-apex-configs-avery/-/raw/master/autoexec.cfg) in it.
+3. Paste everything from [autoexecSniba](https://raw.githubusercontent.com/Snibaaim/Apex-config-Sniba/main/autoexecSniba.cfg) in it.
 4. Save and make the file read-only (Right click the file, select properties, check the read only box).
 
 Steam:
 1. Right click the game in steam, hit properties > General > Launch options.
-2. Add "+exec autoexec" (without the quotation marks).
+2. Add "+exec autoexec" (without the quotation marks or .cfg at the end).
 
 Origin:
 1. Right click on the game inside of Origin and go to "Game Properties".
